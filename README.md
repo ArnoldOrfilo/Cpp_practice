@@ -1,1 +1,2 @@
 # Cpp_practice
+This is an assessment written in C++. I was asked to write a "Video" management tool, where users can register as normal users or video creators, and provided corresponding functions. As common user, user can: 1) Get video by keywords; 2) Get video recommendations; 3) Get trending channels (creators); As creator, user can: 1) Find current channel score; 2) Create a video; 3) Manage a video (delete or rename, reset like/dislike); 
